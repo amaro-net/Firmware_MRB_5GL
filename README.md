@@ -15,7 +15,7 @@ Playlist do projeto do braço robô MRB-5GL:
 [![Projeto do MRB-5GL](https://img.youtube.com/vi/fhk3rW9b3HQ/0.jpg)](https://www.youtube.com/playlist?list=PLfnxnoUSxXde7of-QUJK9k0CRMmgxdtAs)
 
 Vídeo do código-fonte do MRB-5GL (sem as alterações contidas neste repositório):
-[![Alterações no firmware do MRB-5GL](https://img.youtube.com/vi/RlqCF_Jo5r0/0.jpg)](https://www.youtube.com/watch?v=RlqCF_Jo5r0)
+[![Código fonte do firmware do MRB-5GL](https://img.youtube.com/vi/RlqCF_Jo5r0/0.jpg)](https://www.youtube.com/watch?v=RlqCF_Jo5r0)
 
 Playlist de alterações no firmware:                                          
 [![Alterações no firmware do MRB-5GL](https://img.youtube.com/vi/she2tT6dwQI/0.jpg)](https://www.youtube.com/playlist?list=PLfnxnoUSxXdfK23iauQLqIGRMOv1n2ykr)
